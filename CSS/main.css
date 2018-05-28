@@ -1,7 +1,8 @@
 body {
 	font-family: Helvetica, Geneva, sans-sefif;
 	background-color: black;
-    background-image: url(../Imagens/fundo.jpg);
+	background-image: url(../Imagens/fundo.jpg);
+	background-size: cover;
 	color: white;
 }
 
