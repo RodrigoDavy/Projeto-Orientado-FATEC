@@ -57,9 +57,10 @@ th, td {
 	text-align: right;
 }
 
-ol {
+ul {
     text-align: center;
     font-size: 20px;
+    list-style-type: none;
 }
 
 a:link {
